@@ -1,7 +1,7 @@
-2023-08-07
+# Rendering the SIO-2 capsid map
 
-ChimeraX (version 1.2) processing:
-+ Open EMDB 5383
++ Open ChimeraX (version 1.2):
++ Fetch the structure from the command line: open EMDB 5383
 + Map --> Surface display
 + Volume viewer --> contour level 2 (as recommended in publication)
 + Volume data --> Surface color:
