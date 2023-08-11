@@ -1,4 +1,6 @@
 # capsid-generator
+[![DOI](https://zenodo.org/badge/675775737.svg)](https://zenodo.org/badge/latestdoi/675775737)
+
 This repository contains the codes and instructions to generate and visualize the capsid models to investigate icosahedral capsids with 3-fold centered hexamers or all skewed/split hexamers.
 
 Description of each element in the repository:
